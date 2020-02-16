@@ -2,11 +2,13 @@
 
 Client side form validation. Check requird, length, email and password match
 
-###  Project Specifications
+### Specifications
 
-- Create form UI
-- Show error messages
-- checkRequired() 
-- checkLength() 
-- checkEmail() 
-- checkPasswordsMatch() 
+    - Create form UI
+    - Show error messages
+    - checkRequired() 
+    - checkLength() 
+    - checkEmail() 
+    - checkPasswordsMatch() 
+    
+online [Demo](https://zealous-heisenberg-425aef.netlify.com/)
